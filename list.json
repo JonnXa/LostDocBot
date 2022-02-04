@@ -21,7 +21,8 @@
         "shadowhunter":"https://www.youtube.com/watch?v=KN9WORmrQfY&ab_channel=Senderfn",
         "deathblade":"https://www.youtube.com/watch?v=I5sWi1xMvWs&ab_channel=Senderfn",
         "all":"https://www.youtube.com/watch?v=4oIb35347MQ&ab_channel=Kanon",
-        "all-w":"https://docs.google.com/spreadsheets/d/1jnbsTlaFNmwx8lZfl43yOTV9KtRqzZeHLOtEpLn4h8s/edit#gid=0"
+        "all-w":"https://docs.google.com/spreadsheets/d/1jnbsTlaFNmwx8lZfl43yOTV9KtRqzZeHLOtEpLn4h8s/edit#gid=0",
+        "leaderboard":"https://loawa.com/rank"
     },
     "guide":{
         "start":"https://papunika.com/beginner-guide/",
@@ -31,8 +32,13 @@
         "guardian":"https://papunika.com/guardian-subjugations/",
         "cube":"https://thegamescabin.com/lost-ark-cube-guide/",
         "saint":"https://docs.google.com/spreadsheets/d/1jnbsTlaFNmwx8lZfl43yOTV9KtRqzZeHLOtEpLn4h8s/edit#gid=1741597889",
-        "estate":"https://www.reddit.com/r/lostarkgame/comments/r1a1ef/quick_overview_of_estatesisland_strongholds_for/",
-        "skillpoints":"https://papunika.com/skill-points/"    
+        "housing":"https://www.reddit.com/r/lostarkgame/comments/r1a1ef/quick_overview_of_estatesisland_strongholds_for/",
+        "housingde":"https://www.youtube.com/watch?v=6G8SkLi7T8U&ab_channel=Senderfn",
+        "skillpoints":"https://papunika.com/skill-points/",
+        "engravings":"https://www.youtube.com/watch?v=iKPa0yiicDo&ab_channel=Kanon",
+        "cutting":"https://www.youtube.com/watch?v=CxpQ_VUjgTQ&ab_channel=Kanon",
+        "RTL":"https://docs.google.com/spreadsheets/d/19NIlKjBmG77KM74zc7uDQuJ5HPhSno6fLGqIsmFelb4/edit#gid=0",
+        "map":"https://papunika.com/map/?z=overworld&l=us"
     },
     "weeb":{
         "skins":"https://namu.wiki/w/%EB%A1%9C%EC%8A%A4%ED%8A%B8%EC%95%84%ED%81%AC/%EC%95%84%EB%B0%94%ED%83%80"
