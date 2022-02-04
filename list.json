@@ -1,0 +1,46 @@
+{
+    "pages":{
+        "lostarkive":"https://lostarkive.com/",
+        "papunika":"https://papunika.com/",
+        "all":"https://docs.google.com/spreadsheets/d/1jnbsTlaFNmwx8lZfl43yOTV9KtRqzZeHLOtEpLn4h8s/edit#gid=1976281501"
+    },
+    "class":{
+        "berserker":"https://www.youtube.com/watch?v=qrfFQWLAuUI&ab_channel=Senderfn",
+        "paladin":"https://www.youtube.com/watch?v=zPWNtKHY8-w&ab_channel=Senderfn",
+        "gunlancer":"https://www.youtube.com/watch?v=qmOoXqW0zR8&ab_channel=Senderfn",
+        "striker":"https://www.youtube.com/watch?v=kxcwCU662lE&ab_channel=Senderfn",
+        "wardancer":"https://www.youtube.com/watch?v=naS7tDPCiLg&ab_channel=Senderfn",
+        "scrapper":"https://www.youtube.com/watch?v=HxulQPQGuKY&ab_channel=Senderfn",
+        "soulfist":"https://www.youtube.com/watch?v=ZPMPvvvVJ2Q&ab_channel=Senderfn",
+        "gunslinger":"https://www.youtube.com/watch?v=TJ9DYiacaA8&ab_channel=Senderfn",
+        "artillerist":"https://www.youtube.com/watch?v=Gvqi_L942yA&ab_channel=Senderfn",
+        "deadeye":"https://www.youtube.com/watch?v=yVgrftDA6MQ&ab_channel=Senderfn",
+        "sharpshooter":"https://www.youtube.com/watch?v=jZLSRCZUgeE&ab_channel=Senderfn",
+        "bard":"https://www.youtube.com/watch?v=ITEi85i2JfM&ab_channel=Senderfn",
+        "sroceress":"",
+        "shadowhunter":"https://www.youtube.com/watch?v=KN9WORmrQfY&ab_channel=Senderfn",
+        "deathblade":"https://www.youtube.com/watch?v=I5sWi1xMvWs&ab_channel=Senderfn",
+        "all":"https://www.youtube.com/watch?v=4oIb35347MQ&ab_channel=Kanon",
+        "all-w":"https://docs.google.com/spreadsheets/d/1jnbsTlaFNmwx8lZfl43yOTV9KtRqzZeHLOtEpLn4h8s/edit#gid=0"
+    },
+    "guide":{
+        "start":"https://papunika.com/beginner-guide/",
+        "progress":"https://www.reddit.com/r/lostarkgame/comments/sif5oi/visual_flowchart_for_game_progression/",
+        "guild":"https://docs.google.com/spreadsheets/u/0/d/1wJiDGy77tOdV7ATqXj-bGXH7JmQo-sbjHrYJTcoI4Ow/htmlview#gid=1565410778",
+        "abyss":"https://papunika.com/abyss-dungeons/",
+        "guardian":"https://papunika.com/guardian-subjugations/",
+        "cube":"https://thegamescabin.com/lost-ark-cube-guide/",
+        "saint":"https://docs.google.com/spreadsheets/d/1jnbsTlaFNmwx8lZfl43yOTV9KtRqzZeHLOtEpLn4h8s/edit#gid=1741597889",
+        "estate":"https://www.reddit.com/r/lostarkgame/comments/r1a1ef/quick_overview_of_estatesisland_strongholds_for/",
+        "skillpoints":"https://papunika.com/skill-points/"    
+    },
+    "weeb":{
+        "skins":"https://namu.wiki/w/%EB%A1%9C%EC%8A%A4%ED%8A%B8%EC%95%84%ED%81%AC/%EC%95%84%EB%B0%94%ED%83%80"
+    },
+    "todo":{
+        "link":"https://ark.bynn.kr/to-do",
+        "import":"https://ark.bynn.kr/backup"
+    },
+    "flip":["kopf","zahl"],
+    "server":"Zinnervale (mehr Committed gilden) oder Slen (noch ziemlich leer)"
+}
