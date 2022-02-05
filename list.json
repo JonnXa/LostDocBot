@@ -2,6 +2,7 @@
     "pages":{
         "lostarkive":"https://lostarkive.com/",
         "papunika":"https://papunika.com/",
+        "maxroll":"https://lost-ark.maxroll.gg/",
         "all":"https://docs.google.com/spreadsheets/d/1jnbsTlaFNmwx8lZfl43yOTV9KtRqzZeHLOtEpLn4h8s/edit#gid=1976281501"
     },
     "class":{
@@ -37,8 +38,12 @@
         "skillpoints":"https://papunika.com/skill-points/",
         "engravings":"https://www.youtube.com/watch?v=iKPa0yiicDo&ab_channel=Kanon",
         "cutting":"https://www.youtube.com/watch?v=CxpQ_VUjgTQ&ab_channel=Kanon",
-        "RTL":"https://docs.google.com/spreadsheets/d/19NIlKjBmG77KM74zc7uDQuJ5HPhSno6fLGqIsmFelb4/edit#gid=0",
-        "map":"https://papunika.com/map/?z=overworld&l=us"
+        "rtl":"https://docs.google.com/spreadsheets/d/19NIlKjBmG77KM74zc7uDQuJ5HPhSno6fLGqIsmFelb4/edit#gid=0",
+        "map":"https://papunika.com/map/?z=overworld&l=us",
+        "cards":"https://www.youtube.com/watch?v=gJHda5vghwQ&ab_channel=Saintone",
+        "lvl":"https://lost-ark.maxroll.gg/resources/1-50-leveling-guide",
+        "tripod":"https://www.youtube.com/watch?v=1M2_ijkHfJM&ab_channel=Kanon",
+        "dont":"https://www.youtube.com/watch?v=n8kjS_z-Yiw&ab_channel=ZealsAmbitions"
     },
     "weeb":{
         "skins":"https://namu.wiki/w/%EB%A1%9C%EC%8A%A4%ED%8A%B8%EC%95%84%ED%81%AC/%EC%95%84%EB%B0%94%ED%83%80"
