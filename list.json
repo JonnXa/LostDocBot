@@ -3,30 +3,82 @@
         "lostarkive":"https://lostarkive.com/",
         "papunika":"https://papunika.com/",
         "maxroll":"https://lost-ark.maxroll.gg/",
+        "pvp":"https://www.arkives.info/",
         "all":"https://docs.google.com/spreadsheets/d/1jnbsTlaFNmwx8lZfl43yOTV9KtRqzZeHLOtEpLn4h8s/edit#gid=1976281501"
     },
     "class":{
-        "berserker":"https://www.youtube.com/watch?v=qrfFQWLAuUI&ab_channel=Senderfn",
-        "paladin":"https://www.youtube.com/watch?v=zPWNtKHY8-w&ab_channel=Senderfn",
-        "gunlancer":"https://www.youtube.com/watch?v=qmOoXqW0zR8&ab_channel=Senderfn",
-        "striker":"https://www.youtube.com/watch?v=kxcwCU662lE&ab_channel=Senderfn",
-        "wardancer":"https://www.youtube.com/watch?v=naS7tDPCiLg&ab_channel=Senderfn",
-        "scrapper":"https://www.youtube.com/watch?v=HxulQPQGuKY&ab_channel=Senderfn",
-        "soulfist":"https://www.youtube.com/watch?v=ZPMPvvvVJ2Q&ab_channel=Senderfn",
-        "gunslinger":"https://www.youtube.com/watch?v=TJ9DYiacaA8&ab_channel=Senderfn",
-        "artillerist":"https://www.youtube.com/watch?v=Gvqi_L942yA&ab_channel=Senderfn",
-        "deadeye":"https://www.youtube.com/watch?v=yVgrftDA6MQ&ab_channel=Senderfn",
-        "sharpshooter":"https://www.youtube.com/watch?v=jZLSRCZUgeE&ab_channel=Senderfn",
-        "bard":"https://www.youtube.com/watch?v=ITEi85i2JfM&ab_channel=Senderfn",
-        "sroceress":"",
-        "shadowhunter":"https://www.youtube.com/watch?v=KN9WORmrQfY&ab_channel=Senderfn",
-        "deathblade":"https://www.youtube.com/watch?v=I5sWi1xMvWs&ab_channel=Senderfn",
-        "all":"https://www.youtube.com/watch?v=4oIb35347MQ&ab_channel=Kanon",
-        "all-w":"https://docs.google.com/spreadsheets/d/1jnbsTlaFNmwx8lZfl43yOTV9KtRqzZeHLOtEpLn4h8s/edit#gid=0",
-        "leaderboard":"https://loawa.com/rank"
+        "berserker":{
+            "vid":"https://www.youtube.com/watch?v=qrfFQWLAuUI&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bwarrior%5D%26classes%3D%5Bberserker%5D"
+        },
+        "paladin":{
+            "vid":"https://www.youtube.com/watch?v=zPWNtKHY8-w&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bwarrior%5D%26classes%3D%5Bpaladin%5D"
+        },
+        "gunlancer":{
+            "vid":"https://www.youtube.com/watch?v=qmOoXqW0zR8&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bwarrior%5D%26classes%3D%5Bgunlancer%5D"
+        },
+        "striker":{
+            "vid":"https://www.youtube.com/watch?v=kxcwCU662lE&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bmartist-artist%5D%26classes%3D%5Bstriker%5D"
+        },
+        "wardancer":{
+            "vid":"https://www.youtube.com/watch?v=naS7tDPCiLg&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bmartist-artist%5D%26classes%3D%5Bwardancer%5D"
+        },
+        "scrapper":{
+            "vid":"https://www.youtube.com/watch?v=HxulQPQGuKY&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bmartist-artist%5D%26classes%3D%5Bwardancer%5D"
+        },
+        "soulfist":{
+            "vid":"https://www.youtube.com/watch?v=ZPMPvvvVJ2Q&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bmartist-artist%5D%26classes%3D%5Bsoulfist%5D"
+        },
+        "gunslinger":{
+            "vid":"https://www.youtube.com/watch?v=TJ9DYiacaA8&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bgunner%5D%26classes%3D%5Bgunslinger%5D"
+        },
+        "artillerist":{
+            "vid":"https://www.youtube.com/watch?v=Gvqi_L942yA&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bgunner%5D%26classes%3D%5Bartillerist%5D"
+        },
+        "deadeye":{
+            "vid":"https://www.youtube.com/watch?v=yVgrftDA6MQ&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bgunner%5D%26classes%3D%5Bdeadeye%5D"
+        },
+        "sharpshooter":{
+            "vid":"https://www.youtube.com/watch?v=jZLSRCZUgeE&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bgunner%5D%26classes%3D%5Bsharpshooter%5D"
+        },
+        "bard":{
+            "vid":"https://www.youtube.com/watch?v=ITEi85i2JfM&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bmage%5D%26classes%3D%5Bbard%5D"
+        },
+        "sroceress":{
+            "vid":"",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bmage%5D%26classes%3D%5Bsorceress%5D"
+        },
+        "shadowhunter":{
+            "vid":"https://www.youtube.com/watch?v=KN9WORmrQfY&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bassassin%5D%26classes%3D%5Bshadowhunter%5D"
+        },
+        "deathblade":{
+            "vid":"https://www.youtube.com/watch?v=I5sWi1xMvWs&ab_channel=Senderfn",
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bassassin%5D%26classes%3D%5Bshadowhunter%5D"
+        },
+        "all":{
+            "vid":"https://www.youtube.com/watch?v=4oIb35347MQ&ab_channel=Kanon",
+            "w":"https://docs.google.com/spreadsheets/d/1jnbsTlaFNmwx8lZfl43yOTV9KtRqzZeHLOtEpLn4h8s/edit#gid=0"
+        },
+        "leaderboard":{
+            "kr":"https://loawa.com/rank",
+            "de":""
+        }
     },
     "guide":{
         "start":"https://papunika.com/beginner-guide/",
+        "startvid":"https://www.youtube.com/watch?v=Xrj1aT0q94w&ab_channel=Senderfn",
         "progress":"https://www.reddit.com/r/lostarkgame/comments/sif5oi/visual_flowchart_for_game_progression/",
         "guild":"https://docs.google.com/spreadsheets/u/0/d/1wJiDGy77tOdV7ATqXj-bGXH7JmQo-sbjHrYJTcoI4Ow/htmlview#gid=1565410778",
         "abyss":"https://papunika.com/abyss-dungeons/",
@@ -43,7 +95,11 @@
         "cards":"https://www.youtube.com/watch?v=gJHda5vghwQ&ab_channel=Saintone",
         "lvl":"https://lost-ark.maxroll.gg/resources/1-50-leveling-guide",
         "tripod":"https://www.youtube.com/watch?v=1M2_ijkHfJM&ab_channel=Kanon",
-        "dont":"https://www.youtube.com/watch?v=n8kjS_z-Yiw&ab_channel=ZealsAmbitions"
+        "dont":"https://www.youtube.com/watch?v=n8kjS_z-Yiw&ab_channel=ZealsAmbitions",
+        "crafting":"https://www.youtube.com/watch?v=b4bNHWk0tiU&ab_channel=Vulkan",
+        "skip50":"https://lostarkhub.com/what-is-lost-ark-knowledge-transfer-boost-alts-with-gold/",
+        "nugi":"https://docs.google.com/document/d/1HnHlXaANLb-SfgYsn4XGnquHWDct7WM97PynlYBtuk0/edit",
+        "huge":"https://docs.google.com/spreadsheets/d/19NIlKjBmG77KM74zc7uDQuJ5HPhSno6fLGqIsmFelb4/htmlview?pru=AAABfvmm6Vo*pGQE3LUdgWLc7bY2Olmuow#"
     },
     "weeb":{
         "skins":"https://namu.wiki/w/%EB%A1%9C%EC%8A%A4%ED%8A%B8%EC%95%84%ED%81%AC/%EC%95%84%EB%B0%94%ED%83%80"
@@ -53,5 +109,5 @@
         "import":"https://ark.bynn.kr/backup"
     },
     "flip":["kopf","zahl"],
-    "server":"Zinnervale (mehr Committed gilden) oder Slen (noch ziemlich leer)"
+    "server":"Thirian - Das wird der Server. Warum? Open World + skrims für pvp sind dadurch machbar sowie gilden content"
 }

@@ -57,14 +57,15 @@ async def flow_chart(ctx, *args):
         await ctx.send(answ["guide"][arg])
 
 #iterates all classes (just one tree yet)
-@bot.command(name='class', help="Currently only German Guide for following classes:\n " + cComm )
-async def all_classes(ctx, *args):
-    for arg in args:
-        await ctx.send(answ["class"][arg])
+@bot.command(name='class', help="English written or German Vid-Guide for following classes:\n\n " + cComm +"\n\n use 'vid' for video an 'w' for written")
+async def all_classes(ctx, cl, typ):
+    if cl == "leaderboard":
+        await ctx.send(answ["class"][cl])
+    await ctx.send(answ["class"][cl][typ])
 
 #iterates all stuff for cosmetics
 @bot.command(name='weeb', help="All cosmetics and shit as follows:\n" + wComm)
-async def weeb_shit_4_leo(ctx, *args):
+async def weeb_shit(ctx, *args):
     for arg in args:
         await ctx.send(answ["weeb"][arg])
 
