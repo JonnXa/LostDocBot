@@ -55,7 +55,7 @@
             "vid":"https://www.youtube.com/watch?v=ITEi85i2JfM&ab_channel=Senderfn",
             "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bmage%5D%26classes%3D%5Bbard%5D"
         },
-        "sroceress":{
+        "sorceress":{
             "vid":"",
             "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bmage%5D%26classes%3D%5Bsorceress%5D"
         },
@@ -65,7 +65,7 @@
         },
         "deathblade":{
             "vid":"https://www.youtube.com/watch?v=I5sWi1xMvWs&ab_channel=Senderfn",
-            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bassassin%5D%26classes%3D%5Bshadowhunter%5D"
+            "w":"https://lost-ark.maxroll.gg/category/build-guides#classes%3D%5Bassassin%5D%26classes%3D%5Bdeathblade%5D"
         },
         "all":{
             "vid":"https://www.youtube.com/watch?v=4oIb35347MQ&ab_channel=Kanon",
@@ -79,6 +79,7 @@
     "guide":{
         "start":"https://papunika.com/beginner-guide/",
         "startvid":"https://www.youtube.com/watch?v=Xrj1aT0q94w&ab_channel=Senderfn",
+        "walkthrough":"https://www.youtube.com/watch?v=IUqP1UtWNyA&ab_channel=Baema",
         "progress":"https://www.reddit.com/r/lostarkgame/comments/sif5oi/visual_flowchart_for_game_progression/",
         "guild":"https://docs.google.com/spreadsheets/u/0/d/1wJiDGy77tOdV7ATqXj-bGXH7JmQo-sbjHrYJTcoI4Ow/htmlview#gid=1565410778",
         "abyss":"https://papunika.com/abyss-dungeons/",
@@ -89,6 +90,7 @@
         "housingde":"https://www.youtube.com/watch?v=6G8SkLi7T8U&ab_channel=Senderfn",
         "skillpoints":"https://papunika.com/skill-points/",
         "engravings":"https://www.youtube.com/watch?v=iKPa0yiicDo&ab_channel=Kanon",
+        "engravingst2":"https://www.youtube.com/watch?v=Ei-p2URN74M&ab_channel=Kanon",
         "cutting":"https://www.youtube.com/watch?v=CxpQ_VUjgTQ&ab_channel=Kanon",
         "rtl":"https://docs.google.com/spreadsheets/d/19NIlKjBmG77KM74zc7uDQuJ5HPhSno6fLGqIsmFelb4/edit#gid=0",
         "map":"https://papunika.com/map/?z=overworld&l=us",
@@ -99,6 +101,8 @@
         "crafting":"https://www.youtube.com/watch?v=b4bNHWk0tiU&ab_channel=Vulkan",
         "skip50":"https://lostarkhub.com/what-is-lost-ark-knowledge-transfer-boost-alts-with-gold/",
         "nugi":"https://docs.google.com/document/d/1HnHlXaANLb-SfgYsn4XGnquHWDct7WM97PynlYBtuk0/edit",
+        "movement":"https://www.youtube.com/watch?v=mZJlm71JOvo&ab_channel=Senderfn",
+        "1-50":"https://lost-ark.maxroll.gg/resources/1-50-leveling-guide",
         "huge":"https://docs.google.com/spreadsheets/d/19NIlKjBmG77KM74zc7uDQuJ5HPhSno6fLGqIsmFelb4/htmlview?pru=AAABfvmm6Vo*pGQE3LUdgWLc7bY2Olmuow#"
     },
     "weeb":{
@@ -109,5 +113,5 @@
         "import":"https://ark.bynn.kr/backup"
     },
     "flip":["kopf","zahl"],
-    "server":"Thirian - Das wird der Server. Warum? Open World + skrims für pvp sind dadurch machbar sowie gilden content"
+    "server":"Thirainn - Thirainn - Thirainn - Thirainn - Thirainn - Thirainn - Thirainn - Thirainn - Thirainn"
 }

@@ -10,4 +10,4 @@ Add this Bot with the invite link
 
 https://discord.com/oauth2/authorize?client_id=938501729375355011&permissions=274877967360&scope=bot
 
-Text chat has to be named 'lost-ark'
+Text chat has to be named 'lostarkbot'
